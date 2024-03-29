@@ -1,30 +1,34 @@
 # :rocket: Applied Data Science Capstone
-The Capstone project represents the pinnacle of the IBM Data Science Professional Certificate, encapsulating all knowledge gained throughout the specialization into a single, hands-on endeavor.
-## :page_facing_up: Project Background
-SpaceX is the most successful company of the commercial space 
-age, making space travel affordable. The company advertises Falcon 
-9 rocket launches on its website, with a cost of 62 million dollars; 
-other providers cost upward of 165 million dollars each, much of the 
-savings is because SpaceX can reuse the first stage. Therefore, if we 
-can determine if the first stage will land, we can determine the cost 
-of a launch. Based on public information and machine learning 
-models, we are going to predict if SpaceX will reuse the first stage.
-## :page_facing_up: Questions to be answered 
-- How do variables such as payload mass, launch site, number of 
-flights, and orbits affect the success of the first stage landing? 
-- Does the rate of successful landings increase over the years? 
-- What is the best algorithm that can be used for binary classification 
-in this case?
-## :page_facing_up: Methodology
-  ### 1. Data collection methodology
-  - Using SpaceX Rest API
-  - Using Web Scrapping from Wikipedia
-  ### 2. Performed data wrangling
-  - Filtering the data
-  - Dealing with missing values
-  - Using One Hot Encoding to prepare the data to a binary classification
-  ### 3. Performed exploratory data analysis (EDA) using visualization and SQL
-  ### 4. Performed interactive visual analytics using Folium and Plotly Dash
-  ### 5. Performed predictive analysis using classification models
-  - Building, tuning and evaluation of classification models to ensure the best
-  results
+
+# Creating Insights from SpaceX Falcon 9 Rocket Launches
+
+- Section 1: Introduction
+- Section 2: Methodology
+- Section 3: Results
+- Section 4: Conclusion
+
+## Section 1: Introduction
+### SpaceX's Revolutionary Role
+- **Space Travel Revolution**: Emphasizing SpaceX's role in revolutionizing space travel and the potential cost-effectiveness of its Falcon 9 rocket launches.
+- **Key Questions**: Exploring the influence of various factors on the probability of successful first stage landings and the discernible trend in successful landings over time.
+
+## Section 2: Methodology
+### Detailed Steps
+- **Data Collection**: Through SpaceX REST API and web scraping from Wikipedia.
+- **Data Wrangling**: Preparing the data for analysis.
+- **Exploratory Data Analysis (EDA)**: Utilizing visualization and SQL for in-depth insights.
+- **Interactive Visual Analytics**: Leveraging Folium for interactive map creation and Plotly Dash for dashboard building.
+- **Predictive Analysis**: Using classification models to forecast the likelihood of successful first stage landings.
+
+## Section 3: Results
+### Project Outcomes
+- **Detailed Visualizations**: Relationship between flight number and launch site, payload vs. launch site, success rate vs. orbit type, and more.
+- **Insights**: Importance of different launch sites, their success ratios, and the impact of payload mass on launch outcomes.
+- **Predictive Analysis**: Discussion on classification accuracy, confusion matrix, and the best algorithm for the dataset.
+
+## Section 4: Conclusion
+### Valuable Insights
+- **Understanding Success Factors**: Factors influencing the success of SpaceX Falcon 9 rocket launches.
+- **Predictive Analysis**: Providing valuable information for understanding and predicting the likelihood of successful launches.
+
+This presentation offers a comprehensive analysis of SpaceX Falcon 9 rocket launches, encompassing data collection, exploratory data analysis, interactive visual analytics, and predictive analysis. The insights derived from the analysis shed light on the factors influencing successful first stage landings and the trends in launch success rates over time.
