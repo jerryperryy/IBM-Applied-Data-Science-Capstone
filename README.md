@@ -32,3 +32,5 @@
 - **Predictive Analysis**: Providing valuable information for understanding and predicting the likelihood of successful launches.
 
 This presentation offers a comprehensive analysis of SpaceX Falcon 9 rocket launches, encompassing data collection, exploratory data analysis, interactive visual analytics, and predictive analysis. The insights derived from the analysis shed light on the factors influencing successful first stage landings and the trends in launch success rates over time.
+
+### [Insights from SpaceX]("/Insights from SpaceX Falcon 9 Rocket Launches.pdf")
