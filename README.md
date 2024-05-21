@@ -33,4 +33,4 @@
 
 This presentation offers a comprehensive analysis of SpaceX Falcon 9 rocket launches, encompassing data collection, exploratory data analysis, interactive visual analytics, and predictive analysis. The insights derived from the analysis shed light on the factors influencing successful first stage landings and the trends in launch success rates over time.
 
-Detailed [Insights]("https://github.com/jerryperryy/IBM-Applied-Data-Science-Capstone/blob/main/Insights%20from%20SpaceX%20Falcon%209%20Rocket%20Launches.pdf") of this project 
+Detailed [Insights](https://github.com/jerryperryy/IBM-Applied-Data-Science-Capstone/blob/main/Insights%20from%20SpaceX%20Falcon%209%20Rocket%20Launches.pdf) of this project 
